@@ -22,7 +22,7 @@
           <img class="first-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>一种连接世界的方式。</h1>
+              <h1>一种连接世界的方式</h1>
               <p><br/><br/><br/><br/><br/></p>
             </div>
           </div>
@@ -31,7 +31,7 @@
           <img class="third-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Google是一种能力。</h1>
+              <h1>Google是一种能力</h1>
               <p>连接上WeConnect，程序员随时Google查阅Stack Overflow，学生随时查阅Quora Questions，外贸工作者随时了解国际市场。<br/><br/><br/><br/><br/></p>
             </div>
           </div>
@@ -40,7 +40,7 @@
           <img class="second-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>优秀的应用服务。</h1>
+              <h1>优秀的应用服务体验</h1>
               <p>Google YouTuBe Pinterest Tumblr Facebook Twitter Github Quora<br/><br/><br/><br/><br/></p>
             </div>
           </div>
