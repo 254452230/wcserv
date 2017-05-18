@@ -78,9 +78,9 @@
           <img class="img-circle" src="${cp}/resources/image/easy.png" alt="Generic placeholder image" width="140" height="140">
           <h2>简单</h2>
           <p>支持iOS，MacOS，Windows，Linux多种操作系统。配置简单，连接简单。一个账号支持两部设备。</p>
-        </div><!-- /.col-lg-4 -->
-      </div><!-- /.row -->
-            <!-- FOOTER -->
+        </div>
+      </div>
+
       <footer>
         <p></p>
       </footer>
